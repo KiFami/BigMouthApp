@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.iadd {
+    width: 52px;
+    height: 52px;
+}
+
+/* {
+    height: 900px;
+    overflow-y: scroll;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+*/
+
+.kafelek {
+    background-color: lightskyblue;
+    width: auto;
+    height: 90px;
+    margin: 5px 5px;
+    display: flex;
+}
+
+.kafelek img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.kafelek h2{
+    color: white;
+    display: inline
+}
